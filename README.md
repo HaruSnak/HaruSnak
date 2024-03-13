@@ -1,12 +1,13 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="500" src="https://i.pinimg.com/originals/41/60/db/4160dbcc349592ae2f1b41fda2561ece.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="www.linkedin.com/in/shany-moreno-5a863b2aa">
+  <img src="https://camo.githubusercontent.com/ab9cb8e33d40795652c1e7feb76f1e491bcc4a2a3cfd2af4bf29670383581047/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f666c6f7269616e2d612d6465762f" height="25" alt="youtube logo"  />
+  </a>
 <a href="https://shany-benes.fr/#">
     <img src="https://camo.githubusercontent.com/68178ec4b5f856a35b5ed11888172a888cf364065684b516ea65d9d689a965c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d3838383838383f7374796c653d666c6174266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f666c6f7269616e2d612e646576" height="25" alt="https://shany-benes.fr/#" />
 </a>
@@ -21,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi ! 👋</h1>
 
 ###
 
@@ -29,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">👋 Hello! I'm Shany, a student at 42 Lausanne, passionate about computer development and specializing in C and C++ programming languages. With a strong command of these languages, I bring a constant passion for solving complex problems and creating innovative solutions. Always seeking learning opportunities and technical challenges, I am open to collaboration and project opportunities.<br></p>
 
 ###
 
@@ -37,24 +38,13 @@
 
 ###
 
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=C)&nbsp; ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C)&nbsp;</br>
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;</br> ![Photoshop](https://img.shields.io/badge/-Photoshop-555?style=flat&logo=adobe-photoshop)&nbsp;
+
+
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<br clear="both">
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-###
-###
-## Contact
-
-- [Email](mailto:email@example.com)
-- [Portfolio](lien_vers_le_portfolio)
-- [LinkedIn](lien_vers_LinkedIn)
-- [Twitter](lien_vers_Twitter)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
