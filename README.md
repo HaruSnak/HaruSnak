@@ -7,7 +7,10 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://camo.githubusercontent.com/68178ec4b5f856a35b5ed11888172a888cf364065684b516ea65d9d689a965c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d3838383838383f7374796c653d666c6174266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f666c6f7269616e2d612e646576" height="25" alt="https://shany-benes.fr/#"  />
+<a href="https://shany-benes.fr/#">
+    <img src="https://camo.githubusercontent.com/68178ec4b5f856a35b5ed11888172a888cf364065684b516ea65d9d689a965c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d3838383838383f7374796c653d666c6174266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f666c6f7269616e2d612e646576" height="25" alt="https://shany-benes.fr/#" />
+</a>
+
 </div>
 
 ###
