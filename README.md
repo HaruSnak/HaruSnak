@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone!+👋;My+Name+is+Shany!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!+👋;My+Name+is+Shany+!&center=true&size=30&color=A733F7">
   </a>
 </h1>
 
@@ -50,7 +50,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Last Repositories 👨‍💻</h2>
 
 <div align="center">
   <a href="https://github.com/HaruSnak/minishell">
@@ -59,11 +59,21 @@
   <a href="https://github.com/HaruSnak/minishell">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=minishell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Philosophers">
   </a>
+  <br>
+  <br/>
   <a href="https://github.com/HaruSnak/So_Long">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=So_Long&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="So_Long">
   </a>
   <a href="https://github.com/HaruSnak/Push_Swap">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=Push_Swap&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Push_Swap">
+  </a>
+  <br>
+  <br/>
+  <a href="https://github.com/HaruSnak/Pipex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=Pipex&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Pipex">
+  </a>
+  <a href="https://github.com/HaruSnak/Born2BeRoot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=Born2BeRoot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Born2BeRoot">
   </a>
 
 </div>
