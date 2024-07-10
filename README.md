@@ -1,40 +1,89 @@
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/41/60/db/4160dbcc349592ae2f1b41fda2561ece.jpg"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HaruSnak.HaruSnak">
 
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/shany-moreno-5a863b2aa">
-  <img src="https://camo.githubusercontent.com/ab9cb8e33d40795652c1e7feb76f1e491bcc4a2a3cfd2af4bf29670383581047/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f666c6f7269616e2d612d6465762f" height="25" alt="youtube logo"  />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone!+👋;My+Name+is+Shany!&center=true&size=30">
   </a>
-<a href="https://shany-benes.fr/#">
-    <img src="https://camo.githubusercontent.com/68178ec4b5f856a35b5ed11888172a888cf364065684b516ea65d9d689a965c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d3838383838383f7374796c653d666c6174266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f666c6f7269616e2d612e646576" height="25" alt="https://shany-benes.fr/#" />
-</a>
+</h1>
+
+<p align="center">
+ <a href="https://shany-benes.fr/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="HaruSnak" />
+ </a>
+ <a href="https://www.linkedin.com/in/shany-moreno-5a863b2aa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HaruSnak"/>
+ </a>
+</p>
+<br />
+
+<br>
+<p align="center"> 
+  Hello !, I'm Shany, student Expert in Computer Architecture from Switzerland
+  <br>
+  <br>
+  📫 How to reach me: <a href="mailto: shmoreno@student.42lausanne.ch">shmoreno@student.42lausanne.ch</a>
+</p>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=c,cpp,lua,bash,git"></code>
+  <code><img title="C" height="42" src="https://skillicons.dev/icons?i=godot,unreal"></code>
+  <!-- https://github.com/tandpfun/skill-icons/blob/main/readme.md icon-->
+</p>
+<br/>
+<hr/>
+
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/HaruSnak/HaruSnak/issues)
+
+</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+<div align="center">
+  <a href="https://github.com/HaruSnak/minishell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=minishell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Minishell">
+  </a>
+  <a href="https://github.com/HaruSnak/minishell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=minishell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Philosophers">
+  </a>
+  <a href="https://github.com/HaruSnak/So_Long">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=So_Long&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="So_Long">
+  </a>
+  <a href="https://github.com/HaruSnak/Push_Swap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=Push_Swap&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Push_Swap">
+  </a>
 
 </div>
 
-###
+<p align="center">
+  <a href="https://github.com/HaruSnak?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
-<h1 align="center">Hi ! 👋</h1>
+<br/>
+<hr/>
+<br/>
 
-###
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaruSnak&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">👋 Hello! I'm Shany, a student at 42 Lausanne, passionate about computer development and specializing in C and C++ programming languages. With a strong command of these languages, I bring a constant passion for solving complex problems and creating innovative solutions. Always seeking learning opportunities and technical challenges, I am open to collaboration and project opportunities.<br></p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=C)&nbsp; ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C)&nbsp;</br>
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;</br> ![Photoshop](https://img.shields.io/badge/-Photoshop-555?style=flat&logo=adobe-photoshop)&nbsp;
-
-
-
-###
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Shany Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HaruSnak&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Shany Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HaruSnak&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
