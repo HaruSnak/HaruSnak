@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://i0.wp.com/bloodknife.com/wp-content/uploads/2022/01/scifi-naievete-1.jpeg?fit=1400%2C700&ssl=1" width="80%">
+</h1>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HaruSnak.HaruSnak">
 
 <h1 align="center">
@@ -29,6 +33,8 @@
 <br>
 <p align="center">
   <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=c,cpp,lua,bash,git"></code>
+  <br>
+  <br>
   <code><img title="C" height="42" src="https://skillicons.dev/icons?i=godot,unreal"></code>
   <!-- https://github.com/tandpfun/skill-icons/blob/main/readme.md icon-->
 </p>
