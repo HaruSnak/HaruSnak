@@ -83,12 +83,19 @@
 </p>
 
 <br/>
+<br/>
+<br/>
 <hr/>
+<h2 align="center">👨‍💻 Cursus 42 🧑‍🎓</h2>
 <br/>
 
+<br/>
+<br/>
+<br/>
+<hr/>
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaruSnak&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaruSnak&theme=radical" alt="Shany GitHub Contribution"/>
   </a>
 </p>
 
