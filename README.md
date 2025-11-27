@@ -158,21 +158,21 @@ Developer shany = {
 
 | Project | Language | Grade | Skills Developed |
 |---------|----------|-------|------------------|
-| <a href="https://github.com/HaruSnak/ft_transcendence">**ft_transcendence**</a> | JS/TypeScript/Docker |  | Full-stack web development, real-time communication, WebSockets |
-| <a href="https://github.com/HaruSnak/webserv">**Webserv**</a> | C++ | ✅ | HTTP protocol, server architecture, network programming |
-| <a href="https://github.com/HaruSnak/inception">**Inception**</a> | Docker | ✅ | Containerization, DevOps, system administration |
-| <a href="https://github.com/HaruSnak/NetPractice">**NetPractice**</a> | Network | ✅ | Network configuration, TCP/IP, subnetting, routing |
-| <a href="https://github.com/HaruSnak/CPP-Modules">**CPP Modules 00-09**</a> | C++ | ✅ | Object-oriented programming, polymorphism, inheritance |
-| <a href="https://github.com/HaruSnak/cub3D">**Cub3d**</a> | C | ✅ | Ray-casting, graphics programming, game development |
-| <a href="https://github.com/HaruSnak/minishell">**Minishell**</a> | C | ✅ | System calls, process management, shell programming |
-| <a href="https://github.com/HaruSnak/philosophers">**Philosophers**</a> | C | ✅ | Threading, synchronization, mutex, deadlock prevention |
-| <a href="https://github.com/HaruSnak/Push_Swap">**Push_swap**</a> | C | ✅ | Algorithm optimization, sorting algorithms, complexity analysis |
-| <a href="https://github.com/HaruSnak/Pipex">**Pipex**</a> | C | ✅ | Process communication, pipes, file descriptors, system calls |
-| <a href="https://github.com/HaruSnak/So_Long">**So_long**</a> | C | ✅ | Graphics programming, game development, event handling |
-| <a href="https://github.com/HaruSnak/ft_printf">**Ft_printf**</a> | C | ✅ | String formatting, variadic functions, memory management |
-| <a href="https://github.com/HaruSnak/get_next_line">**Get_Next_Line**</a> | C | ✅ | File I/O, buffer management, memory allocation |
-| <a href="https://github.com/HaruSnak/Born2BeRoot">**Born2beroot**</a> | System Admin | ✅ | Linux administration, virtualization, security hardening |
-| <a href="https://github.com/HaruSnak/libft">**Libft**</a> | C | ✅ | C standard library recreation, memory management, algorithms |
+| <a href="https://github.com/HaruSnak/42-ft_transcendence">**ft_transcendence**</a> | JS/TypeScript/Docker | ✅ | Full-stack web development, real-time communication, WebSockets |
+| <a href="https://github.com/HaruSnak/42-webserv">**Webserv**</a> | C++ | ✅ | HTTP protocol, server architecture, network programming |
+| <a href="https://github.com/HaruSnak/42-inception">**Inception**</a> | Docker | ✅ | Containerization, DevOps, system administration |
+| **NetPractice** | Network | ✅ | Network configuration, TCP/IP, subnetting, routing |
+| <a href="https://github.com/HaruSnak/42-cpp-module-all">**CPP Modules 00-09**</a> | C++ | ✅ | Object-oriented programming, polymorphism, inheritance |
+| <a href="https://github.com/HaruSnak/42-cub3d">**Cub3d**</a> | C | ✅ | Ray-casting, graphics programming, game development |
+| <a href="https://github.com/HaruSnak/42-minishell">**Minishell**</a> | C | ✅ | System calls, process management, shell programming |
+| <a href="https://github.com/HaruSnak/42-philosophers">**Philosophers**</a> | C | ✅ | Threading, synchronization, mutex, deadlock prevention |
+| <a href="https://github.com/HaruSnak/42-push_swap">**Push_swap**</a> | C | ✅ | Algorithm optimization, sorting algorithms, complexity analysis |
+| <a href="https://github.com/HaruSnak/42-pipex">**Pipex**</a> | C | ✅ | Process communication, pipes, file descriptors, system calls |
+| <a href="https://github.com/HaruSnak/42-so_long">**So_long**</a> | C | ✅ | Graphics programming, game development, event handling |
+| <a href="https://github.com/HaruSnak/42-ft_printf">**Ft_printf**</a> | C | ✅ | String formatting, variadic functions, memory management |
+| <a href="https://github.com/HaruSnak/42-get_next_line">**Get_Next_Line**</a> | C | ✅ | File I/O, buffer management, memory allocation |
+| <a href="https://github.com/HaruSnak/42-born2beroot">**Born2beroot**</a> | System Admin | ✅ | Linux administration, virtualization, security hardening |
+| <a href="https://github.com/HaruSnak/42-libft">**Libft**</a> | C | ✅ | C standard library recreation, memory management, algorithms |
 
 </details>
 
