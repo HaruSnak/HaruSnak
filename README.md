@@ -12,7 +12,7 @@
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Software+Engineering+Student;🎯+42+School+Expert;💻+System+Architecture+Specialist;🇨🇭+Based+in+Switzerland;&center=true&size=22&color=6f42c1&vCenter=true&width=600&height=70">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;42+Lausanne+%E2%80%94+Common+Core;Systems+%26+Low-Level+Programming;Based+in+Switzerland+%F0%9F%87%A8%F0%9F%87%AD;&center=true&size=22&color=6f42c1&vCenter=true&width=600&height=70">
 	</a>
 </div>
 
@@ -38,34 +38,29 @@
 ```cpp
 struct Developer {
 	std::string name;
-	std::string role;
+	std::string careerGoal;
 	std::string school;
 	std::string location;
-	std::vector<std::string> interests;
-	std::vector<std::string> currentlyLearning;
+	std::vector<std::string> freeTime;
 };
 
 Developer shany = {
 	"Shany Moreno",
-	"Software Engineering Student",
+	"DevOps Engineer / Software Developer",
 	"42 Lausanne",
-	"Switzerland 🇨🇭",
+	"Switzerland",
 	{
-		"🔧 Machine Learning/Data",
-		"🎮 Game Development", 
-	},
-	{
-		"Machine Learning/Data",
-		"Game Engine Development",
+		"Game Development",
+		"Machine Learning / Data",
 	}
 };
 ```
 
-- 🎯 **Passionate** about low-level programming and system optimization
-- 💡 **Expertise** in C/C++ and system architecture
-- 🌱 **Currently exploring** game development with Godot/UE5 & Machine Learning/Data
-- 👥 **Open to collaborate** on innovative projects
-- 💬 **Ask me about** anything related to programming or 42 School
+- 🎯 **Career goal:** DevOps Engineering or Software Development
+- 💡 **Solid foundation** in C/C++, systems, and infrastructure tooling (Docker, Ansible, Terraform, Kubernetes)
+- 🌱 **On my free time**, I build games (Godot/UE5) and explore Machine Learning
+- 👥 **Open to** collaborating on ambitious, well-engineered projects
+- 💬 **Happy to talk about** programming, DevOps, or the 42 curriculum
 
 <br clear="right"/>
 
@@ -75,68 +70,21 @@ Developer shany = {
 
 <div align="center">
 
-### Programming Languages
+### Languages
 <p><img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,lua,bash" alt="Programming Languages"></p>
 
-### Frameworks & Tools  
+### Frameworks & Tools
 <p><img src="https://skillicons.dev/icons?i=nodejs,docker,git,github" alt="Frameworks & Tools"></p>
 
 ### Game Development
 <p><img src="https://skillicons.dev/icons?i=godot,unreal,blender" alt="Game Development"></p>
 
-### Databases & Cloud
-<p><img src="https://skillicons.dev/icons?i=postgresql,nginx" alt="Databases & Cloud"></p>
+### Databases & Infrastructure
+<p><img src="https://skillicons.dev/icons?i=postgresql,nginx,kubernetes,ansible,terraform" alt="Databases & Infrastructure"></p>
 
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-	<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HaruSnak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6f42c1&icon_color=6f42c1&text_color=c9d1d9"/>
-	<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HaruSnak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6f42c1&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaruSnak&theme=tokyonight&hide_border=true&background=0d1117&stroke=6f42c1&ring=6f42c1&fire=ff6b6b&currStreakLabel=c9d1d9" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaruSnak&theme=tokyonight" alt="GitHub Contribution Graph"/>
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🌟 Core 42 Projects
-<a href="https://github.com/HaruSnak/ft_transcendence">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=ft_transcendence&border_color=6f42c1&bg_color=0D1117&title_color=c9d1d9&text_color=8b949e&icon_color=6f42c1" alt="ft_transcendence">
-</a>
-<a href="https://github.com/HaruSnak/webserv">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=webserv&border_color=6f42c1&bg_color=0D1117&title_color=c9d1d9&text_color=8b949e&icon_color=6f42c1" alt="webserv">
-</a>
-
-### 💻 System Programming
-<a href="https://github.com/HaruSnak/minishell">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=minishell&border_color=6f42c1&bg_color=0D1117&title_color=c9d1d9&text_color=8b949e&icon_color=6f42c1" alt="minishell">
-</a>
-<a href="https://github.com/HaruSnak/philosophers">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=philosophers&border_color=6f42c1&bg_color=0D1117&title_color=c9d1d9&text_color=8b949e&icon_color=6f42c1" alt="philosophers">
-</a>
-
-### 🎮 Graphics & Games
-<a href="https://github.com/HaruSnak/So_Long">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=So_Long&border_color=6f42c1&bg_color=0D1117&title_color=c9d1d9&text_color=8b949e&icon_color=6f42c1" alt="So_Long">
-</a>
-<a href="https://github.com/HaruSnak/cub3D">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HaruSnak&repo=cub3D&border_color=6f42c1&bg_color=0D1117&title_color=c9d1d9&text_color=8b949e&icon_color=6f42c1" alt="cub3D">
-</a>
-
-</div>
 
 <div align="center">
 	<a href="https://github.com/HaruSnak?tab=repositories" target="_blank">
@@ -153,7 +101,7 @@ Developer shany = {
 </div>
 
 <details>
-<summary><b>📚 Completed Projects</b></summary>
+<summary><b>📚 Completed Projects — click to expand</b></summary>
 <br>
 
 | Project | Language | Grade | Skills Developed |
@@ -176,12 +124,36 @@ Developer shany = {
 
 </details>
 
+<div align="center">
+    <img src="https://img.shields.io/badge/Cursus-Specialization-4ECDC4?style=for-the-badge&logo=target&logoColor=white" alt="Cursus"/>
+</div>
+
+<details>
+<summary><b>🚀 Post Common Core — Specialization Projects — click to expand</b></summary>
+<br>
+
+| Project | Language | Grade | Skills Developed |
+|---------|----------|-------|------------------|
+| **Darkly** | Web | ✅ | Web security auditing, vulnerability identification (XSS, injections, etc.), secure coding basics |
+| **BGP** | C | ✅ | Routing protocols (BGP), network programming, socket programming |
+| **Zappy** | C | 🔄 | TCP/IP network programming, server/client architecture, AI client strategy, real-time graphical rendering |
+| **nm** | C | ✅ | Reimplementation of the `nm` Unix utility (no arguments), ELF file parsing, symbol table reading |
+| **Cloud-1** | Docker/Ansible | ✅ | Cloud deployment (Azure), infrastructure automation with Ansible, multi-container architecture (WordPress, phpMyAdmin, database) |
+| **IoT** | Vagrant/K3s/K3d | 🔄 | Kubernetes fundamentals, VM provisioning with Vagrant, Ingress configuration, lightweight cluster orchestration |
+| **Ft_turing** | OCaml | ✅ | Turing machine simulation, finite state automata, functional programming |
+| **H42n42** | Docker/Bash | 🔄 | Container orchestration, simulation modeling, Docker Compose |
+| **Rainfall** | Assembly/C | ✅ | Binary exploitation, buffer overflows, Linux privilege escalation |
+| **Override** | Assembly/C | ✅ | Advanced exploitation, memory protection bypass, reverse engineering |
+| **XV** | C++/Unreal Engine | 🔄 | Real-time 3D simulation, industrial process visualization, human-machine interaction |
+
+</details>
+
 ---
 
 ## 🏅 Achievements & Certifications
 
 <div align="center">
-  
+
 ![42 Badge](https://img.shields.io/badge/42_Student-000000?style=for-the-badge&logo=42&logoColor=white)
 
 </div>
@@ -195,7 +167,7 @@ Developer shany = {
 <p>
 <b>💬 Feel free to reach out for:</b><br>
 🔗 Collaboration opportunities<br>
-💡 Tech discussions<br>
+💡 Technical discussions<br>
 🎯 Career advice<br>
 🚀 Project partnerships
 </p>
@@ -213,7 +185,7 @@ Developer shany = {
 </div>
 
 <div align="center">
-	<b>✨ Thanks for visiting my profile! ✨</b>
+	<b>✨ Thanks for stopping by! ✨</b>
 	<br>
-	<i>Don't forget to ⭐ some repositories if you found them interesting!</i>
+	<i>If a project caught your eye, a ⭐ is always appreciated.</i>
 </div>
