@@ -22,7 +22,7 @@
 	<!-- EN COURS<a href="https://shany-benes.fr/" target="_blank">
 		<img src="https://img.shields.io/badge/🌐_Portfolio-6f42c1?style=for-the-badge&logoColor=white" alt="Portfolio" />
 	</a>-->
-	<a href="https://www.linkedin.com/in/shany-moreno-5a863b2aa" target="_blank">
+	<a href="www.linkedin.com/in/shany-moreno" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 </div>
