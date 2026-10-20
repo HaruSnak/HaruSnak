@@ -3,160 +3,175 @@
 </div>
 
 <div align="center">
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=HaruSnak.HaruSnak&color=6f42c1&style=for-the-badge" alt="Profile Views">
-	<img src="https://img.shields.io/github/followers/HaruSnak?color=6f42c1&style=for-the-badge&logo=github" alt="GitHub Followers">
-	<img src="https://img.shields.io/github/stars/HaruSnak?color=6f42c1&style=for-the-badge&logo=github" alt="GitHub Stars">
-</div>
-
-<br>
-
-<div align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;42+Lausanne+%E2%80%94+Common+Core;Systems+%26+Low-Level+Programming;Based+in+Switzerland+%F0%9F%87%A8%F0%9F%87%AD;&center=true&size=22&color=6f42c1&vCenter=true&width=600&height=70">
-	</a>
-</div>
-
-<br>
-
-<div align="center">
-	<!-- EN COURS<a href="https://shany-benes.fr/" target="_blank">
-		<img src="https://img.shields.io/badge/🌐_Portfolio-6f42c1?style=for-the-badge&logoColor=white" alt="Portfolio" />
-	</a>-->
-	<a href="www.linkedin.com/in/shany-moreno" target="_blank">
+	<a href="https://www.linkedin.com/in/shany-moreno-5a863b2aa" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
+	<a href="https://github.com/HaruSnak?tab=repositories" target="_blank">
+		<img src="https://img.shields.io/badge/Repositories-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+	</a>
+	<img src="https://img.shields.io/badge/42-Lausanne-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Lausanne"/>
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=HaruSnak.HaruSnak&color=6f42c1&style=for-the-badge" alt="Profile Views"/>
 </div>
-
-<br>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```cpp
 struct Developer {
-	std::string name;
-	std::string careerGoal;
-	std::string school;
-	std::string location;
-	std::vector<std::string> freeTime;
-};
-
-Developer shany = {
-	"Shany Moreno",
-	"DevOps Engineer / Software Developer",
-	"42 Lausanne",
-	"Switzerland",
-	{
-		"Game Development",
-		"Machine Learning / Data",
-	}
+	std::string              name       = "Shany Moreno";
+	std::string              school     = "42 Lausanne";
+	std::string              location   = "Switzerland";
+	std::string              careerGoal = "DevOps Engineer / Software Developer";
+	std::vector<std::string> focus      = { "Systems", "Networking", "Infrastructure as Code" };
+	std::vector<std::string> freeTime   = { "Game Development", "Machine Learning" };
 };
 ```
 
-- 🎯 **Career goal:** DevOps Engineering or Software Development
-- 💡 **Solid foundation** in C/C++, systems, and infrastructure tooling (Docker, Ansible, Terraform, Kubernetes)
-- 🌱 **On my free time**, I build games (Godot/UE5) and explore Machine Learning
-- 👥 **Open to** collaborating on ambitious, well-engineered projects
-- 💬 **Happy to talk about** programming, DevOps, or the 42 curriculum
+- 🎓 **Common Core completed** at 42 Lausanne, now in the **specialization** track
+- 🧱 **Solid foundation** in C/C++, Unix systems programming, networking and security
+- ⚙️ **Infrastructure**: Docker, Ansible, Kubernetes (K3s/K3d), Argo CD, Traefik, Prometheus/Grafana
+- 🏠 **Self-hosting** my own NAS, fully described as code ([nas-iac](https://github.com/HaruSnak/nas-iac))
+- 🎮 **On my free time**, I build games (Godot, UE5, UEFN) and explore Machine Learning
+- 🎯 **Looking for** DevOps or software engineering opportunities
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<p><img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,lua,bash" alt="Programming Languages"></p>
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,ocaml,bash,lua" alt="Languages"/>
 
-### Frameworks & Tools
-<p><img src="https://skillicons.dev/icons?i=nodejs,docker,git,github" alt="Frameworks & Tools"></p>
+**DevOps & Infrastructure**<br>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,terraform,nginx,githubactions,grafana,prometheus" alt="DevOps & Infrastructure"/>
 
-### Game Development
-<p><img src="https://skillicons.dev/icons?i=godot,unreal,blender" alt="Game Development"></p>
+**Web, Databases & Tools**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,git,github,vscode" alt="Web, Databases & Tools"/>
 
-### Databases & Infrastructure
-<p><img src="https://skillicons.dev/icons?i=postgresql,nginx,kubernetes,ansible,terraform" alt="Databases & Infrastructure"></p>
+**Game Development**<br>
+<img src="https://skillicons.dev/icons?i=godot,unreal,blender" alt="Game Development"/>
 
 </div>
 
 ---
 
-<div align="center">
-	<a href="https://github.com/HaruSnak?tab=repositories" target="_blank">
-		<img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-6f42c1?style=for-the-badge&logoColor=white&logo=repo"/>
-	</a>
-</div>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [NAS-IaC](https://github.com/HaruSnak/nas-iac)
+Self-hosted NAS described as code: Nextcloud, Jellyfin, *arr stack behind a VPN kill switch, Traefik with Let's Encrypt, and Prometheus/Grafana monitoring. Deployed with Ansible and Docker Compose, with hardened service accounts, Ansible Vault secrets, Renovate and CI (ansible-lint, gitleaks).
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Zappy](https://github.com/HaruSnak/42-zappy)
+Multiplayer network game played by autonomous AIs. A single-threaded C++ server multiplexes every client with `poll()` and schedules timed actions, Python AI clients cooperate only through in-game broadcasts, and a Tk monitor renders the world in real time. 106 end-to-end tests.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TCP](https://img.shields.io/badge/TCP%2Fpoll()-555555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☸️ [Inception-of-Things](https://github.com/HaruSnak/42-Inception-of-Things)
+Introduction to Kubernetes and GitOps: a K3s cluster provisioned with Vagrant, Ingress routing by host, a K3d cluster continuously deployed by Argo CD, and a self-hosted GitLab installed with Helm.
+
+![Kubernetes](https://img.shields.io/badge/K3s%2FK3d-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [ft_nm](https://github.com/HaruSnak/42-nm)
+Reimplementation of the Unix `nm` command for 32- and 64-bit ELF binaries. Files are mapped with `mmap` and every byte access is bounds-checked, so malformed or crafted binaries cannot cause an out-of-bounds read.
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![ELF](https://img.shields.io/badge/ELF-555555?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 42 School Journey
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Cursus-Common_Core-FF6B6B?style=for-the-badge&logo=target&logoColor=white" alt="Cursus"/>
+	<img src="https://img.shields.io/badge/Common_Core-Completed-2ea44f?style=for-the-badge&logo=42&logoColor=white" alt="Common Core completed"/>
+	<img src="https://img.shields.io/badge/Specialization-In_Progress-6f42c1?style=for-the-badge&logo=42&logoColor=white" alt="Specialization in progress"/>
 </div>
 
-<details>
-<summary><b>📚 Completed Projects — click to expand</b></summary>
 <br>
 
-| Project | Language | Grade | Skills Developed |
-|---------|----------|-------|------------------|
-| <a href="https://github.com/HaruSnak/42-ft_transcendence">**ft_transcendence**</a> | JS/TypeScript/Docker | ✅ | Full-stack web development, real-time communication, WebSockets |
-| <a href="https://github.com/HaruSnak/42-webserv">**Webserv**</a> | C++ | ✅ | HTTP protocol, server architecture, network programming |
-| <a href="https://github.com/HaruSnak/42-inception">**Inception**</a> | Docker | ✅ | Containerization, DevOps, system administration |
-| **NetPractice** | Network | ✅ | Network configuration, TCP/IP, subnetting, routing |
-| <a href="https://github.com/HaruSnak/42-cpp-module-all">**CPP Modules 00-09**</a> | C++ | ✅ | Object-oriented programming, polymorphism, inheritance |
-| <a href="https://github.com/HaruSnak/42-cub3d">**Cub3d**</a> | C | ✅ | Ray-casting, graphics programming, game development |
-| <a href="https://github.com/HaruSnak/42-minishell">**Minishell**</a> | C | ✅ | System calls, process management, shell programming |
-| <a href="https://github.com/HaruSnak/42-philosophers">**Philosophers**</a> | C | ✅ | Threading, synchronization, mutex, deadlock prevention |
-| <a href="https://github.com/HaruSnak/42-push_swap">**Push_swap**</a> | C | ✅ | Algorithm optimization, sorting algorithms, complexity analysis |
-| <a href="https://github.com/HaruSnak/42-pipex">**Pipex**</a> | C | ✅ | Process communication, pipes, file descriptors, system calls |
-| <a href="https://github.com/HaruSnak/42-so_long">**So_long**</a> | C | ✅ | Graphics programming, game development, event handling |
-| <a href="https://github.com/HaruSnak/42-ft_printf">**Ft_printf**</a> | C | ✅ | String formatting, variadic functions, memory management |
-| <a href="https://github.com/HaruSnak/42-get_next_line">**Get_Next_Line**</a> | C | ✅ | File I/O, buffer management, memory allocation |
-| <a href="https://github.com/HaruSnak/42-born2beroot">**Born2beroot**</a> | System Admin | ✅ | Linux administration, virtualization, security hardening |
-| <a href="https://github.com/HaruSnak/42-libft">**Libft**</a> | C | ✅ | C standard library recreation, memory management, algorithms |
+<details>
+<summary><b>🧩 Common Core</b> — 15 projects · click to expand</summary>
+<br>
+
+| Rank | Project | Language | Grade | Description |
+|:----:|---------|----------|:-----:|-------------|
+| 0 | [**Libft**](https://github.com/HaruSnak/42-libft) | C | ![125](https://img.shields.io/badge/125%2F100-2ea44f?style=flat-square) | Recreation of standard libc functions plus linked lists and string utilities, reused in every later C project |
+| 1 | [**ft_printf**](https://github.com/HaruSnak/42-ft_printf) | C | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | `printf` replica built on variadic functions, handling `cspdiuxX%` conversions |
+| 1 | [**get_next_line**](https://github.com/HaruSnak/42-get_next_line) | C | ![125](https://img.shields.io/badge/125%2F100-2ea44f?style=flat-square) | Reads a file line by line with a static buffer, for several file descriptors at once |
+| 1 | [**Born2beroot**](https://github.com/HaruSnak/42-born2beroot) | SysAdmin | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | Hardened Debian server in a VM: LVM encryption, UFW, SSH, sudo policy and password rules |
+| 2 | [**push_swap**](https://github.com/HaruSnak/42-push_swap) | C | ![94](https://img.shields.io/badge/94%2F100-2ea44f?style=flat-square) | Sorts integers on two stacks with the fewest possible operations, plus a checker program |
+| 2 | [**Pipex**](https://github.com/HaruSnak/42-pipex) | C | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | Reproduces shell pipelines with `fork`, `pipe`, `dup2` and `execve` |
+| 2 | [**so_long**](https://github.com/HaruSnak/42-so_long) | C | ![125](https://img.shields.io/badge/125%2F100-2ea44f?style=flat-square) | 2D top-down game with MiniLibX: map parsing, path validation and event handling |
+| 3 | [**Minishell**](https://github.com/HaruSnak/42-minishell) | C | ![96](https://img.shields.io/badge/96%2F100-2ea44f?style=flat-square) | Bash-like shell: parsing, quotes, expansions, redirections, pipes, signals and builtins |
+| 3 | [**Philosophers**](https://github.com/HaruSnak/42-philosophers) | C | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | Dining philosophers problem with threads and mutexes, free of data races and deadlocks |
+| 4 | [**Cub3D**](https://github.com/HaruSnak/42-cub3d) | C | ![115](https://img.shields.io/badge/115%2F100-2ea44f?style=flat-square) | Wolfenstein-style ray-casting engine with textured walls, minimap and mouse rotation |
+| 4 | **NetPractice** | Network | ![Validated](https://img.shields.io/badge/Validated-2ea44f?style=flat-square) | TCP/IP addressing exercises: subnetting, masks, gateways and routing tables |
+| 4–5 | [**CPP Modules 00–09**](https://github.com/HaruSnak/42-cpp-module-all) | C++ | ![Validated](https://img.shields.io/badge/Validated-2ea44f?style=flat-square) | C++98 from classes to templates: OOP, polymorphism, exceptions, casts and the STL |
+| 5 | [**Inception**](https://github.com/HaruSnak/42-inception) | Docker | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | Multi-container infrastructure (NGINX with TLS, WordPress/PHP-FPM, MariaDB) built from scratch with Docker Compose |
+| 5 | [**Webserv**](https://github.com/HaruSnak/42-webserv) | C++ | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | Non-blocking HTTP/1.1 server in C++98 with a config file, CGI, uploads and multiple virtual servers |
+| 6 | [**ft_transcendence**](https://github.com/HaruSnak/42-ft_transcendence) | TypeScript | ![103](https://img.shields.io/badge/103%2F100-2ea44f?style=flat-square) | Full-stack real-time Pong platform with authentication, live chat and WebSockets, deployed with Docker |
 
 </details>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Cursus-Specialization-4ECDC4?style=for-the-badge&logo=target&logoColor=white" alt="Cursus"/>
-</div>
-
 <details>
-<summary><b>🚀 Post Common Core — Specialization Projects — click to expand</b></summary>
+<summary><b>🚀 Specialization</b> — 11 projects · click to expand</summary>
 <br>
 
-| Project | Language | Grade | Skills Developed |
-|---------|----------|-------|------------------|
-| **Darkly** | Web | ✅ | Web security auditing, vulnerability identification (XSS, injections, etc.), secure coding basics |
-| **BGP** | C | ✅ | Routing protocols (BGP), network programming, socket programming |
-| **Zappy** | C | 🔄 | TCP/IP network programming, server/client architecture, AI client strategy, real-time graphical rendering |
-| **nm** | C | ✅ | Reimplementation of the `nm` Unix utility (no arguments), ELF file parsing, symbol table reading |
-| **Cloud-1** | Docker/Ansible | ✅ | Cloud deployment (Azure), infrastructure automation with Ansible, multi-container architecture (WordPress, phpMyAdmin, database) |
-| **IoT** | Vagrant/K3s/K3d | 🔄 | Kubernetes fundamentals, VM provisioning with Vagrant, Ingress configuration, lightweight cluster orchestration |
-| **Ft_turing** | OCaml | ✅ | Turing machine simulation, finite state automata, functional programming |
-| **H42n42** | Docker/Bash | 🔄 | Container orchestration, simulation modeling, Docker Compose |
-| **Rainfall** | Assembly/C | ✅ | Binary exploitation, buffer overflows, Linux privilege escalation |
-| **Override** | Assembly/C | ✅ | Advanced exploitation, memory protection bypass, reverse engineering |
-| **XV** | C++/Unreal Engine | 🔄 | Real-time 3D simulation, industrial process visualization, human-machine interaction |
+| Project | Domain | Language | Grade | Description |
+|---------|--------|----------|:------:|-------------|
+| [**Zappy**](https://github.com/HaruSnak/42-zappy) | Network / AI | C++ · Python | ![97](https://img.shields.io/badge/97%2F100-2ea44f?style=flat-square) | Multiplayer game played by autonomous AIs: `poll()` server, cooperative AI clients and a real-time graphical monitor |
+| [**Inception-of-Things**](https://github.com/HaruSnak/42-Inception-of-Things) | DevOps | Shell · YAML | ![125](https://img.shields.io/badge/125%2F100-2ea44f?style=flat-square) | K3s with Vagrant, Ingress, K3d and GitOps continuous deployment with Argo CD and GitLab |
+| [**H42N42**](https://github.com/HaruSnak/42-h42n42) | Functional / Web | OCaml | ![0](https://img.shields.io/badge/0%2F100-lightgrey?style=flat-square) | Browser simulation of a virus spreading among creatures, written in OCaml with Ocsigen, Eliom and Lwt threads |
+| [**Cloud-1**](https://github.com/HaruSnak/42-cloud-1) | Cloud / DevOps | Ansible · Docker | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | Automated deployment of the Inception stack on a remote cloud instance with Ansible, TLS and a UFW firewall |
+| [**ft_turing**](https://github.com/HaruSnak/42-ft_turing) | Functional | OCaml | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | Single-tape Turing machine simulator driven by JSON descriptions, written in pure functional OCaml |
+| [**ft_nm**](https://github.com/HaruSnak/42-nm) | Unix / Binary | C | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | `nm` reimplementation for 32/64-bit ELF files with `mmap` and systematic bounds checking |
+| [**Darkly**](https://github.com/HaruSnak/42-darkly) | Security | Web · Python | ![125](https://img.shields.io/badge/125%2F100-2ea44f?style=flat-square) | Web application audit: 14 vulnerabilities found and documented (SQLi, XSS, path traversal, cookie tampering…) |
+| [**Rainfall**](https://github.com/HaruSnak/42-rainfall) | Security | Assembly · C | ![125](https://img.shields.io/badge/125%2F100-2ea44f?style=flat-square) | Binary exploitation through reverse engineering: buffer overflows, format strings and privilege escalation |
+| **Override** | Security | Assembly · C | ![125](https://img.shields.io/badge/125%2F100-2ea44f?style=flat-square) | Advanced binary exploitation and reverse engineering, bypassing memory protections |
+| **BGP At Doors of Autonomous Systems** | Network | GNS3 · Docker | ![100](https://img.shields.io/badge/100%2F100-2ea44f?style=flat-square) | Network simulation in GNS3: VXLAN, BGP EVPN, OSPF and route reflection between routers |
+| **XV** | Simulation | C++ · Unreal Engine | ![0](https://img.shields.io/badge/0%2F100-lightgrey?style=flat-square) | Real-time 3D simulation of an industrial process with human-machine interaction |
 
 </details>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🎮 Beyond 42
 
-<div align="center">
-
-![42 Badge](https://img.shields.io/badge/42_Student-000000?style=for-the-badge&logo=42&logoColor=white)
-
-</div>
+- 🏠 [**NAS-IaC**](https://github.com/HaruSnak/nas-iac): my home infrastructure as code (Ansible, Docker Compose, Traefik, monitoring)
+- 🕹️ [**GameDev-Experiments**](https://github.com/HaruSnak/GameDev-Experiments): a logbook of game prototypes in UEFN/Verse, Godot and UE5
+- 🧮 [**Project-Euler**](https://github.com/HaruSnak/Project-Euler): mathematical and algorithmic challenges solved in C++
 
 ---
 
@@ -164,13 +179,7 @@ Developer shany = {
 
 <div align="center">
 
-<p>
-<b>💬 Feel free to reach out for:</b><br>
-🔗 Collaboration opportunities<br>
-💡 Technical discussions<br>
-🎯 Career advice<br>
-🚀 Project partnerships
-</p>
+I'm open to **DevOps / software engineering opportunities**, collaborations and technical discussions.
 
 <a href="https://www.linkedin.com/in/shany-moreno-5a863b2aa" target="_blank">
 	<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -178,14 +187,7 @@ Developer shany = {
 
 </div>
 
----
-
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
-</div>
-
-<div align="center">
-	<b>✨ Thanks for stopping by! ✨</b>
-	<br>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:2b1055&height=100&section=footer" width="100%" alt="Footer"/>
 	<i>If a project caught your eye, a ⭐ is always appreciated.</i>
 </div>
